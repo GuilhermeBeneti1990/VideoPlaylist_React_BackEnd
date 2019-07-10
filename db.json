@@ -1,0 +1,16 @@
+{
+  "videos": [
+    {
+      "artist": "Teste",
+      "title": "Xucrute",
+      "videoURL": "https://www.youtube.com/watch?v=zIdgEBfHxoA",
+      "id": 1
+    },
+    {
+      "artist": "teste 2",
+      "title": "xucrutao",
+      "videoURL": "https://www.youtube.com/watch?v=lbPlsUuW11g",
+      "id": 2
+    }
+  ]
+}
