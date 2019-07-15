@@ -1,14 +1,14 @@
 {
   "videos": [
     {
-      "artist": "Teste",
-      "title": "Xucrute",
+      "artist": "Teste 01",
+      "title": "Teste 01 Title",
       "videoURL": "https://www.youtube.com/watch?v=zIdgEBfHxoA",
       "id": 1
     },
     {
-      "artist": "teste 2",
-      "title": "xucrutao",
+      "artist": "Teste 02",
+      "title": "Teste 02 Title",
       "videoURL": "https://www.youtube.com/watch?v=lbPlsUuW11g",
       "id": 2
     }
